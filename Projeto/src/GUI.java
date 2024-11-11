@@ -6,4 +6,8 @@ public class GUI extends JFrame{
         setSize(400, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
+
+    public static void main(String[] args) {
+        System.out.println("deu certo");;
+    }
 }
